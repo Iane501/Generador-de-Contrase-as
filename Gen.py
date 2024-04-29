@@ -45,4 +45,4 @@ async def guardar_y_enviar(ctx,*,texto):
     await canal_destino.send(texto)
     await ctx.send("¡Mensaje enviado!")
 
-bot.run("MTIyOTU5ODE3Mzg1MzM4NDcyNQ.GYOpzF.tneK8YBEqXOERTT-B5snaTLzaRj5_lJB1l9SFk")
+bot.run("TOKEN")
